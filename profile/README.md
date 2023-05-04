@@ -6,6 +6,6 @@
 
 <h2></h2>
 
-<img src='https://www.kdgcsoft.com/images/banner3.jpg' width='100%'>
+<img src='http://www.kdgcsoft.com/images/banner3.jpg' width='100%'>
 
 - News！千行创搭低代码发布！
